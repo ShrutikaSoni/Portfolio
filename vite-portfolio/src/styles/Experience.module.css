@@ -1,0 +1,13 @@
+.experience {
+  max-width: 800px;
+  margin: auto;
+}
+
+.experience ul {
+  list-style: none;
+  padding: 0;
+}
+
+.experience li {
+  margin-bottom: 1rem;
+}
