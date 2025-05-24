@@ -14,13 +14,13 @@
 }
 .content {
   position: relative;
-  z-index: 1;         /* float above the particles */
-  padding: 2rem;
-  /* optionally center vertically: */
+  z-index: 1;         
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100%;       /* so centering works if you like */
-  color: #fff;        /* since background is dark */
+  text-align: justify;
+  height: 100%;       
+  color: #fff;  
+  line-height: 1.8;
+  font-weight: 500;
+  font-size: larger;
 }

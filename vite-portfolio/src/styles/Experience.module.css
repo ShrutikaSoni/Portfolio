@@ -1,11 +1,14 @@
 .experience {
   max-width: 800px;
   margin: auto;
+  line-height: 1.4rem;
 }
 
 .experience ul {
   list-style: none;
-  padding: 0;
+  padding-top: 100px;
+  font-weight: 600;
+  
 }
 
 .experience li {
